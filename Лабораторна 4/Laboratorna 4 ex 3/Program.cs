@@ -22,7 +22,7 @@ namespace Laboratorna_4_ex_3
             double AB = Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
             double BC = Math.Sqrt((x3 - x2) * (x3 - x2) + (y3 - y2) * (y3 - y2));
             double AC = Math.Sqrt((x3 - x1) * (x3 - x1) + (y3 - y1) * (y3 - y1));
-            if ((AB == BC) || (AB == AC))
+            if ((AB == BC) && (AB == AC))
             {
                 Console.WriteLine("Трикутник ABC Рівносторонній");
             }
