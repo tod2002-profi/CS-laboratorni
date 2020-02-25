@@ -11,11 +11,11 @@ namespace ConsoleApp1
                 Console.Write("d = ");
                 double d = Convert.ToDouble(Console.ReadLine());
 
-            double a = d / Math.Sqrt(2);
-            double s = a *  a;
-            double p = a * 4;
-            Console.Write(s);
-            Console.Write(p);
+                double a = d / Math.Sqrt(2);
+                double s = a *  a;
+                double p = a * 4;
+                Console.Write(s);
+                Console.Write(p);
                 Console.ReadKey();
             
         }
