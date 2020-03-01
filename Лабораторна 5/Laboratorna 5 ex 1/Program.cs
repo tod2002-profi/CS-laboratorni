@@ -1,5 +1,5 @@
 ﻿using System;
-namespace C_
+namespace Laboratorna_5_ex_1
 {
     class Program
     {
