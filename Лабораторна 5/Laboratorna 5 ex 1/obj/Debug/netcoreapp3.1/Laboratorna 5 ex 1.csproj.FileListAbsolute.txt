@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\bin\Debug\netcoreapp3.1\Laboratorna 5 ex 1.exe
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\bin\Debug\netcoreapp3.1\Laboratorna 5 ex 1.deps.json
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\bin\Debug\netcoreapp3.1\Laboratorna 5 ex 1.runtimeconfig.json
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\bin\Debug\netcoreapp3.1\Laboratorna 5 ex 1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\bin\Debug\netcoreapp3.1\Laboratorna 5 ex 1.dll
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\bin\Debug\netcoreapp3.1\Laboratorna 5 ex 1.pdb
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\obj\Debug\netcoreapp3.1\Laboratorna 5 ex 1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\obj\Debug\netcoreapp3.1\Laboratorna 5 ex 1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\obj\Debug\netcoreapp3.1\Laboratorna 5 ex 1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\obj\Debug\netcoreapp3.1\Laboratorna 5 ex 1.dll
+C:\Users\Admin\source\repos\Laboratorna 5 ex 1\obj\Debug\netcoreapp3.1\Laboratorna 5 ex 1.pdb
