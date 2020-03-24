@@ -1,0 +1,11 @@
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\bin\Debug\netcoreapp3.1\Laboratorna 6 ex 2.exe
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\bin\Debug\netcoreapp3.1\Laboratorna 6 ex 2.deps.json
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\bin\Debug\netcoreapp3.1\Laboratorna 6 ex 2.runtimeconfig.json
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\bin\Debug\netcoreapp3.1\Laboratorna 6 ex 2.runtimeconfig.dev.json
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\bin\Debug\netcoreapp3.1\Laboratorna 6 ex 2.dll
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\bin\Debug\netcoreapp3.1\Laboratorna 6 ex 2.pdb
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\obj\Debug\netcoreapp3.1\Laboratorna 6 ex 2.csprojAssemblyReference.cache
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\obj\Debug\netcoreapp3.1\Laboratorna 6 ex 2.AssemblyInfoInputs.cache
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\obj\Debug\netcoreapp3.1\Laboratorna 6 ex 2.AssemblyInfo.cs
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\obj\Debug\netcoreapp3.1\Laboratorna 6 ex 2.dll
+G:\C#\Лабораторна 6\Laboratorna 6 ex 2\obj\Debug\netcoreapp3.1\Laboratorna 6 ex 2.pdb
