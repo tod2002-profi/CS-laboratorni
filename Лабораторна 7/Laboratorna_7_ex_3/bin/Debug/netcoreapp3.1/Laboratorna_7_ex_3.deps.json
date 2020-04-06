@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Laboratorna_7_ex_3/1.0.0": {
+        "runtime": {
+          "Laboratorna_7_ex_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratorna_7_ex_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
