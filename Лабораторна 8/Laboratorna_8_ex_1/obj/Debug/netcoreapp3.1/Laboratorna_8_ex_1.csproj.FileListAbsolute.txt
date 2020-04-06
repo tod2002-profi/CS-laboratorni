@@ -1,0 +1,11 @@
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\bin\Debug\netcoreapp3.1\Laboratorna_8_ex_1.exe
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\bin\Debug\netcoreapp3.1\Laboratorna_8_ex_1.deps.json
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\bin\Debug\netcoreapp3.1\Laboratorna_8_ex_1.runtimeconfig.json
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\bin\Debug\netcoreapp3.1\Laboratorna_8_ex_1.runtimeconfig.dev.json
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\bin\Debug\netcoreapp3.1\Laboratorna_8_ex_1.dll
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\bin\Debug\netcoreapp3.1\Laboratorna_8_ex_1.pdb
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\obj\Debug\netcoreapp3.1\Laboratorna_8_ex_1.csprojAssemblyReference.cache
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\obj\Debug\netcoreapp3.1\Laboratorna_8_ex_1.AssemblyInfoInputs.cache
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\obj\Debug\netcoreapp3.1\Laboratorna_8_ex_1.AssemblyInfo.cs
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\obj\Debug\netcoreapp3.1\Laboratorna_8_ex_1.dll
+G:\C#\Лабораторна 8\Laboratorna_8_ex_1\obj\Debug\netcoreapp3.1\Laboratorna_8_ex_1.pdb
