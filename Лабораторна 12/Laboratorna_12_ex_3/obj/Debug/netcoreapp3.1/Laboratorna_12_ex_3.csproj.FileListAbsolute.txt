@@ -1,0 +1,10 @@
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\bin\Debug\netcoreapp3.1\Laboratorna_12_ex_3.exe
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\bin\Debug\netcoreapp3.1\Laboratorna_12_ex_3.deps.json
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\bin\Debug\netcoreapp3.1\Laboratorna_12_ex_3.runtimeconfig.json
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\bin\Debug\netcoreapp3.1\Laboratorna_12_ex_3.runtimeconfig.dev.json
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\bin\Debug\netcoreapp3.1\Laboratorna_12_ex_3.dll
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\bin\Debug\netcoreapp3.1\Laboratorna_12_ex_3.pdb
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\obj\Debug\netcoreapp3.1\Laboratorna_12_ex_3.AssemblyInfoInputs.cache
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\obj\Debug\netcoreapp3.1\Laboratorna_12_ex_3.AssemblyInfo.cs
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\obj\Debug\netcoreapp3.1\Laboratorna_12_ex_3.dll
+G:\C#\Лабораторна 10\Laboratorna_12_ex_3\obj\Debug\netcoreapp3.1\Laboratorna_12_ex_3.pdb
