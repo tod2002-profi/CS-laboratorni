@@ -1,0 +1,11 @@
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\bin\Debug\netcoreapp3.1\Laboratorna_7_ex_5.exe
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\bin\Debug\netcoreapp3.1\Laboratorna_7_ex_5.deps.json
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\bin\Debug\netcoreapp3.1\Laboratorna_7_ex_5.runtimeconfig.json
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\bin\Debug\netcoreapp3.1\Laboratorna_7_ex_5.runtimeconfig.dev.json
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\bin\Debug\netcoreapp3.1\Laboratorna_7_ex_5.dll
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\bin\Debug\netcoreapp3.1\Laboratorna_7_ex_5.pdb
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\obj\Debug\netcoreapp3.1\Laboratorna_7_ex_5.csprojAssemblyReference.cache
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\obj\Debug\netcoreapp3.1\Laboratorna_7_ex_5.AssemblyInfoInputs.cache
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\obj\Debug\netcoreapp3.1\Laboratorna_7_ex_5.AssemblyInfo.cs
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\obj\Debug\netcoreapp3.1\Laboratorna_7_ex_5.dll
+G:\C#\Лабораторна 7\Laboratorna_7_ex_5\obj\Debug\netcoreapp3.1\Laboratorna_7_ex_5.pdb
