@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\laboratorna 14\bin\Debug\netcoreapp3.1\laboratorna 14.exe
+C:\Users\Admin\source\repos\laboratorna 14\bin\Debug\netcoreapp3.1\laboratorna 14.deps.json
+C:\Users\Admin\source\repos\laboratorna 14\bin\Debug\netcoreapp3.1\laboratorna 14.runtimeconfig.json
+C:\Users\Admin\source\repos\laboratorna 14\bin\Debug\netcoreapp3.1\laboratorna 14.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\laboratorna 14\bin\Debug\netcoreapp3.1\laboratorna 14.dll
+C:\Users\Admin\source\repos\laboratorna 14\bin\Debug\netcoreapp3.1\laboratorna 14.pdb
+C:\Users\Admin\source\repos\laboratorna 14\obj\Debug\netcoreapp3.1\laboratorna 14.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\laboratorna 14\obj\Debug\netcoreapp3.1\laboratorna 14.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\laboratorna 14\obj\Debug\netcoreapp3.1\laboratorna 14.AssemblyInfo.cs
+C:\Users\Admin\source\repos\laboratorna 14\obj\Debug\netcoreapp3.1\laboratorna 14.dll
+C:\Users\Admin\source\repos\laboratorna 14\obj\Debug\netcoreapp3.1\laboratorna 14.pdb
